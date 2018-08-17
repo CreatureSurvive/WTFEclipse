@@ -1,0 +1,19 @@
+Package: com.creaturecoding.wtfeclipse
+Name: WTFEclipse
+Depends: firmware (>= 11.0)
+Version: 0.4.2
+Conflicts: 
+Replaces: 
+Priority: optional
+Architecture: iphoneos-arm
+Description: Fix annoying issues with EclipseX
+Maintainer: CreatureSurvive (support@creaturecoding.com)
+Author: CreatureSurvive (support@creaturecoding.com)
+Section: Tweaks
+dev: CreatureSurvive
+Homepage: https://creaturecoding.com/
+Depiction: https://creaturesurvive.github.io/repo/cydia/wtfeclipse/depiction/
+Icon: 
+
+
+
